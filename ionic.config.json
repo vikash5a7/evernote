@@ -1,0 +1,7 @@
+{
+  "name": "evernote",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
