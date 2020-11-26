@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+   firebaseConfig : {
+    apiKey: 'AIzaSyBODEL4uaCx_B-t6i7WkrDt2d2yOJBzxtw',
+    authDomain: 'evernotes-5172d.firebaseapp.com',
+    databaseURL: 'https://evernotes-5172d.firebaseio.com',
+    projectId: 'evernotes-5172d',
+    storageBucket: 'evernotes-5172d.appspot.com',
+    messagingSenderId: '239738392618',
+    appId: '1:239738392618:web:bed23ebb449167af5cf353',
+    measurementId: 'G-B8DWY1PHRJ'
+  }
 };
 
 /*
